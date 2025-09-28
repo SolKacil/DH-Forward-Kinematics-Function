@@ -1,5 +1,7 @@
 # DH-Forward-Kinematics-Function
 
+![MATLAB](https://img.shields.io/badge/MATLAB-F2A900?style=for-the-badge&logo=matlab&logoColor=white)
+
 This project provides MATLAB functions and scripts to compute the forward kinematics of robotic manipulators using the Denavit-Hartenberg (DH) convention.
 
 ## Description
